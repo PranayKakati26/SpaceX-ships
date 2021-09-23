@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SpaceX-ships/static/css/main.203b70e6.chunk.css",
+    "main.js": "/SpaceX-ships/static/js/main.8f397deb.chunk.js",
+    "main.js.map": "/SpaceX-ships/static/js/main.8f397deb.chunk.js.map",
+    "runtime~main.js": "/SpaceX-ships/static/js/runtime~main.1640f827.js",
+    "runtime~main.js.map": "/SpaceX-ships/static/js/runtime~main.1640f827.js.map",
+    "static/js/2.b4c1d1fa.chunk.js": "/SpaceX-ships/static/js/2.b4c1d1fa.chunk.js",
+    "static/js/2.b4c1d1fa.chunk.js.map": "/SpaceX-ships/static/js/2.b4c1d1fa.chunk.js.map",
+    "index.html": "/SpaceX-ships/index.html",
+    "precache-manifest.e295ba4f751351bff51f0389a7995a28.js": "/SpaceX-ships/precache-manifest.e295ba4f751351bff51f0389a7995a28.js",
+    "service-worker.js": "/SpaceX-ships/service-worker.js",
+    "static/css/main.203b70e6.chunk.css.map": "/SpaceX-ships/static/css/main.203b70e6.chunk.css.map"
+  }
+}
